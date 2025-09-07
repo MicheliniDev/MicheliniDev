@@ -12,6 +12,7 @@
          <img alt="followers" title="Github Followers" src="https://custom-icon-badges.demolab.com/github/followers/MicheliniDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/MicheliniDev?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Github Stars" src="https://custom-icon-badges.demolab.com/github/stars/MicheliniDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://michelinidev.itch.io" target="_blank"><img src="https://img.shields.io/badge/-Itch.io-a70424?style=for-the-badge&logo=itchdotio&logoColor=white%22%20target" target="_blank"></a>
    </p>
    
 ### Languages and Tools
