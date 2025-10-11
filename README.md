@@ -1,7 +1,7 @@
 # Hello, I'm an aspiring Game Developer and Programmer
 <img align="right" alt="profile-pic" height="211" style="border-radius:20px;" src="https://avatars.githubusercontent.com/u/105552293?s=400&u=1e880df9780d335d8c8a8af197d75096f9d3debc&v=4">
 
-**`Programmer, Game Developer and Systems Designer`**
+**`Programmer, Game Developer, Systems Designer and Game Modder`**
 
 💻 Unity & C# Enthusiast  
 📚 Currently studying **Game Development at ETEC Professor Basilides de Godoy**  
