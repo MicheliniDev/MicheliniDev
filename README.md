@@ -4,8 +4,8 @@
 **`Programmer, Game Developer, Systems Designer and Game Modder`**
 
 💻 Unity & C# Enthusiast  
-📚 Currently studying **Game Development at ETEC Professor Basilides de Godoy**  
-🐧 Also diving into **Linux at FATEC Osasco**
+📚 Studied **Game Development at ETEC Professor Basilides de Godoy**  
+🐧 Dove deep into **Linux at FATEC Osasco**
 
    <p align="left">
       <a href="https://github.com/MicheliniDev?tab=followers">
